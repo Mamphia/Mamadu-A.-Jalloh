@@ -21,4 +21,4 @@ I have a **B.Sc. in Physics** from **Fourah Bay College** and recently completed
 - 📌 [Retail Analytics](https://github.com/Mamphia/Integrated-Project-1) – SQL and Python analysis on consumer trends.   
 
 ## 🌍 Let’s Connect & Collaborate!
-💼 [LinkedIn](https://www.linkedin.com/in/mamadu-jalloh-bb650a349/) | 📧 Reach out for collaborations!
+💼 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/mamadu-jalloh/)](https://www.linkedin.com/in/mamadu-jalloh-bb650a349/) | 📧 Reach out for collaborations!
